@@ -1,0 +1,10 @@
+@font-face{
+  font-family: LinkIcon;
+  src: url("icomoon.woff");
+}
+
+p:before{
+  font-family: LinkIcon;
+  content: "li-home";
+  font-size: 200px;
+}
