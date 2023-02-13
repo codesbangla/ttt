@@ -1,9 +1,4 @@
 @font-face{
-  font-family: LinkIcon;
-  src: url("../icomoon.woff");
+  font-family: 'LinkIcon';
+  src: url('../icomoon.woff') format('woff');
 }
-
-
-
-
-
